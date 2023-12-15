@@ -701,7 +701,7 @@ function runSA(
     temperature = 500,
     epoch = 20,
     coolingRate = 0.99,
-    num_iterations = 100000,
+    num_iterations = 10000000,
     save_current_best = :plot,
     verbose = true,
 )
