@@ -25,8 +25,8 @@ Assuming `julia` is in your path, run
 
 ```bash
 git clone https://github.com/FlyingTyper/Custom-Keyboard-layout.git
-cd keyboards
-julia -L 'keyboardSA.jl'
+cd Custom-Keyboard-layout
+julia -L keyboardSA.jl
 ```
 
 If you want to play with the script, it's recommended to use the
