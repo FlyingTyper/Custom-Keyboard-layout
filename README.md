@@ -1,6 +1,6 @@
 # keyboards
 
-Supporting simulated annealing code for the [Why I Made The World's Worst Keyboard](https://youtu.be/188fipF-i5I) YouTube video.
+Fork of AtomicFrontierCode's "Keyboards"
 
 Written in Julia... because it's fast, easy to read, and annoys my labmates.
 
@@ -24,7 +24,7 @@ Download at https://julialang.org/downloads/ and install the Julia language.
 Assuming `julia` is in your path, run
 
 ```bash
-git clone https://github.com/AtomicFrontierCode/keyboards.git
+git clone https://github.com/FlyingTyper/Custom-Keyboard-layout.git
 cd keyboards
 julia -L 'keyboardSA.jl'
 ```
