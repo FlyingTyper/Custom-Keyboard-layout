@@ -11,7 +11,7 @@ using Statistics
 
 
 # ~~~ rng ~~~
-seed = 123456
+seed = 42
 const rng = StableRNGs.LehmerRNG(seed)
 
 # ~~~ data ~~~
